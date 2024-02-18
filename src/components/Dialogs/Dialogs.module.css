@@ -1,0 +1,25 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+.dialogsItems{
+    color: whitesmoke;
+    padding: 10px;
+}
+.dialog{
+    color: whitesmoke;
+    font-weight: bold;
+}
+.dialog a{
+    text-decoration: none;
+    color: darksalmon;
+}
+.dialog a:focus{
+    color: rosybrown;
+}
+.messages{
+    padding: 10px;
+}
+.message{
+    color: blanchedalmond;
+}

@@ -1,0 +1,13 @@
+.nav{
+    grid-area: nav;
+    background-color: #53270c;
+    padding-left: 10px;
+
+}
+.item a{
+   color: whitesmoke;
+    text-decoration: none;
+}
+.item a:focus{
+    color: rosybrown;
+}
