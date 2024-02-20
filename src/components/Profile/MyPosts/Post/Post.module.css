@@ -6,3 +6,16 @@
     border-radius: 50%;
 
 }
+.btn{
+    padding: 5px;
+    margin: 10px 0 10px 0;
+    background-color: darkred;
+    border: 1px;
+    border-radius: 50%;
+    color: whitesmoke;
+
+}
+.btn:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
